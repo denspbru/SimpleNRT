@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+.bsp
+project
+!project/*.sbt
+target
