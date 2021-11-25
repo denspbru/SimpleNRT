@@ -2,10 +2,12 @@
 Simple near real time reporting
 
 # Content 
-SparkGenerator - simple spark stream generator
-lib - necessary libraries and dependencies
-docker - docker-comppose files with conteiners configurations and necessary configuration files.
-data - streams configuration files
+
+**SparkGenerator** - simple spark stream generator
+
+**lib** - necessary libraries and dependencies
+**docker** - docker-comppose files with conteiners configurations and necessary configuration files.
+**data** - streams configuration files
 
 # Install
 
