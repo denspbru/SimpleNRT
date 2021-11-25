@@ -7,5 +7,5 @@
 --driver-memory 1024M \
 --driver-cores 1 \
 --executor-memory 1G \
-./target/scala-2.12/sparkgenerator_2.12-0.1.jar \
+../lib/sparkgenerator_2.12-0.1.jar \
 ../data/generator/generator.conf
