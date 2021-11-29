@@ -54,10 +54,10 @@ Launch generator:
 
 ``./run.sh``
 
-Open Druid console:
+Open **Druid** console:
 
 ``http://localhost:8888``
 
-Open SuperSet:
+Open **SuperSet**:
 
 ``http://localhost:8088``
