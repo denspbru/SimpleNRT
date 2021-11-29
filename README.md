@@ -53,3 +53,9 @@ Co to folder **SparkGenerator**
 Launch generator:
 
 ``./run.sh``
+
+Open Druid console:
+``http://localhost:8888``
+
+Open SuperSet:
+``http://localhost:8088``
